@@ -2,9 +2,9 @@
   "name": "bettermapeditor",
   "displayName": "BetterMapEditor",
   "author": "DeterMination",
-  "version": "v1.0.1",
+  "version": "v1.1.0",
   "minGameVersion": 154,
-  "description": "Client-side editor enhancement: drag the mirror symmetry axis directly in map generator preview.",
+  "description": "Map generator mirror-axis enhancement: drag mirror pivots directly in preview and update symmetry in real time. / 增强地图生成器镜像轴：可在预览中直接拖拽轴心并实时更新对称效果。",
   "main": "bettermapeditor.BetterMapEditorMod",
   "hidden": true,
   "java": true
